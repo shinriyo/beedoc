@@ -7,7 +7,7 @@ sort: 1
 
 This will run application at backend as a daemon.
 
-## linux
+## Linux
 
 In Linux we can use `nohup` command to run application at backend:
 
